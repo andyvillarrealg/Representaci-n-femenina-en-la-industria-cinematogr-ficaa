@@ -2,7 +2,7 @@
 
  
 
-1. Descripción del proyecto  
+## **1. Descripción del proyecto**
 
  
 
@@ -24,7 +24,7 @@ Objetivos:
 
 Informar sobre la representación femenina dentro del al industria del cine y la evolución de la brecha de genero. 
 
- 
+![This is an alt text.](https://i0.wp.com/cinemasaturno.com/wp-content/uploads/2020/03/mujeres-que-cambiaron-la-industria-del-cine.png?fit=1920%2C1080&ssl=1 "This is a sample image.")
 
 Fuentes primarias: 
 
@@ -50,7 +50,7 @@ https://www.theaterseatstore.com/blog/a-brief-history-of-women-in-cinema
 
  
 
-Recolección y Curación de Datos 
+## **2. Recolección y Curación de Datos**
 
    
 
@@ -68,7 +68,7 @@ Los datos fueron dispuestos en orden estrictamente cronológico de acuerdo y mue
 
  
 
-3. Análisis e Interpretación de Datos  
+## **3. Análisis e Interpretación de Datos**  
 
     
 
@@ -88,7 +88,7 @@ La herramienta exige la creación de una base de datos con distintos campos  des
 
  
 
-4. Visualización y Presentación  
+## **4. Visualización y Presentación**
 
  
 
@@ -112,7 +112,7 @@ Este aspecto contribuyó a la narrativa desde las Humanidades Digitales de poder
 
    
 
-5. Documentación y Archivado 
+## **5. Documentación y Archivado**
 
  
 
@@ -126,7 +126,7 @@ La documentación está almacenada en https://github.com/tmarquez-mx/Timeline_zo
 
  
 
-6. Diseminación y Comunicación  
+## **6. Diseminación y Comunicación**
 
  
 
